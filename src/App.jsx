@@ -1,4 +1,4 @@
-function App(): React.ReactNode {
+function App() {
   return null;
 }
 
